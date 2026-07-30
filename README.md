@@ -1,16 +1,234 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ruthvika1207/Ruthvika1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:7c3aed,100:ec4899&height=230&section=header&text=RUTHVIKA%20REDDY&fontSize=58&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Engineer%20%2F%2F%20AI%2FML%20Builder%20%2F%2F%20CBIT%20%2727&descSize=15&descAlignY=64&descColor=e0c3fc&stroke=a855f7&strokeWidth=1.5"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=Building+AI+agents+that+plan+and+create+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Full-Stack+%7C+RAG+%7C+Python+%7C+React+%F0%9F%94%A5;Ship+fast.+Think+deep.+Build+bold.+%F0%9F%9A%80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthvika%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Ruthvika1207-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthvika1207)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruthvikadaidala@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ruthvika1207&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:7c3aed&height=3"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`whoami`
+
+```bash
+➜  ~ cat ruthvika.json
+{
+  "name"          :  "Ruthvika Reddy Daidala",
+  "alias"         :  "Ruthvika1207",
+  "role"          :  "Full-Stack Dev + AI/ML Builder",
+  "education"     :  "B.Tech IT @ CBIT, Hyderabad (2023–2027) — CGPA 9.19",
+  "superpower"    :  "Turns messy data into clean decisions 📊",
+  "currently"     :  ["ContentOS - AI Content Platform", "Sharpening DSA"],
+  "tech_love"     :  ["React", "FastAPI", "LangChain/LangGraph", "Scikit-learn", "MongoDB"],
+  "fun_fact"      :  "I automate the boring stuff so I can build the cool stuff 😎"
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:38bdf8&height=3"/>
+
+---
+
+## 🔭 &nbsp;`currently_building`
+
+<div align="center">
+
+| 🏷️ | Project | Description | Stack | Status |
+|:--:|---------|-------------|-------|:------:|
+| 🧠 | **[ContentOS](https://github.com/Ruthvika1207/ContentOS)** | Full-stack AI platform with a 7-agent LangGraph + RAG workflow for content planning, generation & review | `React` `FastAPI` `LangGraph` | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-a855f7?style=flat-square) |
+| 🎓 | **[Campus Placement Portal](https://github.com/Ruthvika1207/campus-placement-portal)** | Recruitment platform with a RAG chatbot for placement & eligibility queries | `Flask` `RAG` `ML` | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-38bdf8?style=flat-square) |
+| 💰 | **[Finance Manager](https://github.com/Ruthvika1207/personal-finance-ml)** | ML-powered expense tracker used by 20+ users for budgeting | `JavaScript` `Scikit-learn` | ![95%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-95%25-ec4899?style=flat-square) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:ec4899&height=3"/>
+
+---
+
+## ⚡ &nbsp;`tech_stack`
+
+<div align="center">
+
+### 🧬 Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,java&theme=dark&perline=8"/>
+
+### 🎨 Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark&perline=8"/>
+
+### 🔧 Backend
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&perline=8"/>
+
+### 🗄️ Databases & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&theme=dark&perline=8"/>
+
+### 🤖 AI / ML & Tools
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,vscode,postman&theme=dark&perline=8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,100:a855f7&height=3"/>
+
+---
+
+## 🚀 &nbsp;`featured_projects`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🧠 ContentOS</h3>
+<div align="center">
+  <a href="https://github.com/Ruthvika1207/ContentOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruthvika1207&repo=ContentOS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=8b949e" alt="ContentOS"/>
+  </a>
+  <br/><br/>
+  <p><em>"Content, planned and generated by AI agents"</em></p>
+  <p>Full-stack AI platform using a 7-agent LangGraph + RAG workflow to automate content planning, generation, review, scheduling, and publishing.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-AI%2FML-a855f7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🌳 Tree Species Classifier</h3>
+<div align="center">
+  <a href="https://github.com/Ruthvika1207/tree-classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruthvika1207&repo=tree-classifier&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f97316&text_color=8b949e" alt="Tree Species Classifier"/>
+  </a>
+  <br/><br/>
+  <p><em>"Trained during my AICTE–Edunet AI internship"</em></p>
+  <p>CNN-based tree species classification model achieving ~90% accuracy, reducing manual identification effort by 35%.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-CNN-3572A5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Deep%20Learning-ef4444?style=for-the-badge"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🎓 AI Campus Placement Portal</h3>
+<div align="center">
+  <a href="https://github.com/Ruthvika1207/campus-placement-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruthvika1207&repo=campus-placement-portal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=8b949e" alt="AI Campus Placement Portal"/>
+  </a>
+  <br/><br/>
+  <p><em>"Instant answers, streamlined recruitment"</em></p>
+  <p>Recruitment platform for students, recruiters & coordinators with a RAG chatbot for placement, eligibility, and application queries. 50+ job postings managed.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/-RAG-10b981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ML-38bdf8?style=for-the-badge"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">💰 Finance Manager</h3>
+<div align="center">
+  <a href="https://github.com/Ruthvika1207/personal-finance-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruthvika1207&repo=personal-finance-ml&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899&text_color=8b949e" alt="Finance Manager"/>
+  </a>
+  <br/><br/>
+  <p><em>"Track it. Understand it. Own it."</em></p>
+  <p>Finance tracking app used by 20+ users. Automated transaction classification with Scikit-learn, spending analytics across 5+ categories.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:38bdf8&height=3"/>
+
+---
+
+## 📊 &nbsp;`github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruthvika1207&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=a855f7&bg_color=0d1117&text_color=8b949e&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthvika1207&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=0d1117&text_color=8b949e&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ruthvika1207&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f97316&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&stroke=38bdf8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruthvika1207&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=f97316&area=true&area_color=38bdf8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:ec4899&height=3"/>
+
+---
+
+## 🐍 &nbsp;`contribution_snake`
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ruthvika1207/Ruthvika1207/output/ocean.gif" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 🏆 &nbsp;`achievements`
+
+<div align="center">
+
+| | |
+|---|---|
+| 🥈 | **Semi-Finalist**, Flipkart Grid 7.0 (2025) |
+| 👥 | **Team Lead**, Amazon ML Challenge (team of 4) |
+| 🎖️ | **MongoDB Basics Certification** — MongoDB University |
+| 🎖️ | **Web Development Certification** — Internshala |
+
+</div>
+
+---
+
+## 🤝 &nbsp;`connect_with_me`
+
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:ruthvikadaidala@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/Ruthvika1207">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=2000&color=a855f7&center=true&vCenter=true&width=750&lines=%22Building+reliable%2C+efficient%2C+impactful+products.%22;%E2%80%94+Ruthvika+Reddy+%7C+always+shipping+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,30:2d1b69,60:7c3aed,100:ec4899&height=120&section=footer&animation=twinkling"/>
+
+</div>
