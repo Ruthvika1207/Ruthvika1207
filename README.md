@@ -183,10 +183,12 @@
 
 ---
 
-## 🐍 &nbsp;`contribution_snake`
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ruthvika1207/Ruthvika1207/output/ocean.gif" alt="Snake animation"/>
+## 🐍 `contribution_snake`
+
+![Snake animation](https://raw.githubusercontent.com/Ruthvika1207/Ruthvika1207/output/ocean.gif)
 
 </div>
 
