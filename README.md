@@ -81,6 +81,10 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,vscode,postman&theme=dark&perline=8"/>
 
+### 🐳 DevOps
+<br/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=8"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,100:a855f7&height=3"/>
