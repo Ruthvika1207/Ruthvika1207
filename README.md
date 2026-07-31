@@ -6,8 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthvika%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthvika%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthvika-daidala-1539372b4/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Ruthvika1207-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthvika1207)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ruthvika__12-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ruthvika_12/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruthvikadaidala@gmail.com)
 
 <br/>
@@ -211,8 +212,11 @@
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/ruthvika-daidala-1539372b4/">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/Ruthvika_12/">
+    <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:ruthvikadaidala@gmail.com">
     <img src="https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
